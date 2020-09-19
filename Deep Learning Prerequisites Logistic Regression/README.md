@@ -47,7 +47,7 @@
 <p>Examples:</p>
 <p>MNIST dataset
 </p>
-<img src="img\mnist.png" width="200px" height="200px"/>
+<img src="img\mnist.png" width="200px" height="200px"/><p>&nbsp;</p>
 <p>Image Classification
 </p>
 <img src="img\imageClassification.png" width="200px" height="200px"/>
