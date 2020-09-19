@@ -10,7 +10,7 @@
 <li>Gradient descent</li>
 <li>Practical problems: regularization, donut problem, XOR problem</li>
 </ul>
-<div>
+<div><p>&nbsp;</p>
 <h2>Machine Learning</h2>
 <hr>
 <div>
@@ -26,7 +26,7 @@
 <img src="img\supervised.png" width="200px" height="200px"/>
 </div>
 </div>
-<div>
+<div><p>&nbsp;</p><p>&nbsp;</p>
 <h2>Supervised Learning</h2>
 <hr>
 <div>
@@ -40,7 +40,7 @@
 </div>
 </div>
 
-<div>
+<div><p>&nbsp;</p><p>&nbsp;</p>
 <h2>Logistic Regression</h2>
 <hr/>
 <p>Despite it's name is used for classification</p>

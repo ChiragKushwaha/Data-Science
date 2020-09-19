@@ -33,7 +33,7 @@
 <li>Logistic class: binary classification</li>
 <li>Neural network class: multi-class classification</li>
 </ul>
-
+<p>&nbsp;</p>
 <h2>Data Pre-processing</h2>
 <hr/>
 <ul> 
@@ -43,19 +43,19 @@
 <img src="..\img\timeDay.png" width="600px" height="200px"/>
 </li>
 </ul>
-</ul>
+</ul><p>&nbsp;</p>
 <h2>Binary categories</h2>
 <hr>
 
 <p>Aren't is_mobile and is_returning_visitor also categories?
-<br>Yes but we don't need 2 columns "off" and "on". <br> Just absorb the "off" into the bias term</p>
+<br>Yes but we don't need 2 columns "off" and "on". <br> Just absorb the "off" into the bias term</p><p>&nbsp;</p>
 <h2>Numerical columns</h2>
 <hr/>
 <p>These are n_products_viewed and visitors_duration<br/> Int = category or ordinal? Can we just treat it as real? Is 1.5 "in between" 1 and 2?
 <br/> Ex. if user who view 3 or fewer products don't convert, and users who view 4+ products do convert, then what does 0.1 mean? 0.5? 2.5?
 <br/>We expect those to behave the same as "3 or fewer".<br/>Simple way of treating numbers: normalization (0 mean, 1 standard deviation)<br/>sigmoid(10) ~= sigmoid(11) ~= sigmoid(12) ~= 0.999...
 <br/><b>Ζ=(X- μ)/σ</b>
-</p>
+</p><p>&nbsp;</p>
 <h2>Integration with the course</h2>
 <hr/>
 <ul>

@@ -27,6 +27,7 @@ h(2,1) = -1< 0 --> 'x'</p>
 <img src="..\img\2d3.png" width="200px" height="200px"/>
 </div>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <h2>Machine learning lingo</h2>
 <hr/>
 <p>
